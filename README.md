@@ -3,8 +3,7 @@
 ### To run the project first some modules needs to be installed.
 
 // Make sure you have metamask and ganache installed
-
-1. Open the folder "Blogging Platform" inside the terminal after extracting the files from the .zip file.
+1. Clone the repository Blogs_App_Blockchain
 2. Run command "npm install" to install all the related modules and to resolve the dependencies.
 3. Change directory to blogs-app inside Blogging Platform folder.
 4. Run commands "yarn add" and "npm install" here.
