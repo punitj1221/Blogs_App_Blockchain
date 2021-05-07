@@ -1,6 +1,6 @@
-#Welcome to Crypto Blogs
+# Welcome to Crypto Blogs
 
-###To run the project first some modules needs to be installed.
+### To run the project first some modules needs to be installed.
 
 // Make sure you have metamask and ganache installed
 
@@ -9,7 +9,7 @@
 3. Change directory to blogs-app inside Blogging Platform folder.
 4. Run commands "yarn add" and "npm install" here.
 
-###Now the dependencies have been resolved. Now we need to create an initial setup to get going.
+### Now the dependencies have been resolved. Now we need to create an initial setup to get going.
 
 1. Open deploy.js and replace the private key and accountId with the one from ganache application. 
 2. Run "node deploy.js" in the terminal. It will return ABI and address where the contract have been deployed.
